@@ -57,3 +57,4 @@ jobs:
 
             echo ">>> Status & logs"
             docker ps -a --filter "name=re-shopping-cart-web-app"
+          
